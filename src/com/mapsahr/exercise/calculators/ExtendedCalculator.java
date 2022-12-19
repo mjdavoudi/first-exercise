@@ -87,8 +87,8 @@ public class ExtendedCalculator {
         if (number == 1) {
             return false;
         }
-        int check_number = (int) Math.sqrt((double) number / 2);
-        for (int i = 2; i < check_number; i++) {
+
+        for (int i = 2; i <= Math.sqrt(number); i++) {
             if (number % i == 0) {
                 return false;
             }
