@@ -1,6 +1,6 @@
-package com.mapsahr.eexercise.main;
+package com.mapsahr.exercise.main;
 
-import com.mapsahr.eexercise.calculators.ExtendedCalculator;
+import com.mapsahr.exercise.calculators.ExtendedCalculator;
 
 import java.util.Arrays;
 import java.util.Scanner;

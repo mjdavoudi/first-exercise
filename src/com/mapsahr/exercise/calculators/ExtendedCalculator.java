@@ -1,4 +1,4 @@
-package com.mapsahr.eexercise.calculators;
+package com.mapsahr.exercise.calculators;
 
 public class ExtendedCalculator {
     private ExtendedCalculator() {
